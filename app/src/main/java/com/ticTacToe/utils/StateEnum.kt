@@ -1,4 +1,4 @@
-package main.ticTacToe.util
+package main.java.com.ticTacToe.utils
 
 enum class StateEnum(val value: Char) {
     X('X'),

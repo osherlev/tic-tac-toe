@@ -1,4 +1,4 @@
-import main.ticTacToe.util.GameUtils.checkGameState
+import main.java.com.ticTacToe.utils.GameUtils.checkGameState
 
 // Example usage
 fun main() {
